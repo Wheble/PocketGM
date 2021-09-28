@@ -5909,10 +5909,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard1Black"
    ]
 },
  {
@@ -8577,7 +8577,7 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
       "Hair3Brown",
       "Beard2Brown"
@@ -12405,10 +12405,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard3Black"
    ]
 },
  {
@@ -21000,12 +21000,12 @@
    "forename": "Artie",
    "surname": "Burns",
    "position": "CB",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 25,
    "draftSeason": 2015,
    "draftNum": 24,
-   "length": 1,
-   "salary": 760000,
+   "length": 0,
+   "salary": 0,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -21047,10 +21047,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Black"
    ]
 },
  {
@@ -21511,10 +21511,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard4Black"
    ]
 },
  {
@@ -22265,10 +22265,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard2Black"
    ]
 },
  {
@@ -28239,10 +28239,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Black"
    ]
 },
  {
@@ -32368,12 +32368,12 @@
    "forename": "Xavier",
    "surname": "Crawford",
    "position": "CB",
-   "teamID": "Free Agent",
+   "teamID": "CHI",
    "age": 24,
    "draftSeason": 2017,
    "draftNum": 182,
-   "length": 0,
-   "salary": 0,
+   "length": 1,
+   "salary": 880000,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -33981,10 +33981,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
-      "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Head1",
+      "Eyes1",
+      "Hair3Ginger",
+      "Beard1Ginger"
    ]
 },
  {
@@ -34213,10 +34213,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair1Black",
+      "Beard1Black"
    ]
 },
  {
@@ -43783,10 +43783,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
-      "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Head5",
+      "Eyes2",
+      "Hair3Black",
+      "Beard3Black"
    ]
 },
  {
@@ -48191,10 +48191,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
-      "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Head4",
+      "Eyes2",
+      "Hair2Black",
+      "Beard1Black"
    ]
 },
  {
@@ -49699,10 +49699,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Blonde",
+      "Beard2Ginger"
    ]
 },
  {
@@ -55626,12 +55626,12 @@
    "forename": "Trevis",
    "surname": "Gipson",
    "position": "LB",
-   "teamID": "Free Agent",
+   "teamID": "CHI",
    "age": 23,
    "draftSeason": 2020,
    "draftNum": 137,
-   "length": 0,
-   "salary": 0,
+   "length": 1,
+   "salary": 860000,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -55731,10 +55731,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard3Black"
    ]
 },
  {
@@ -56717,10 +56717,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
-      "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Head5",
+      "Eyes1",
+      "Hair5Black",
+      "Beard2Black"
    ]
 },
  {
@@ -57297,10 +57297,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard1Black"
    ]
 },
  {
@@ -57993,10 +57993,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair1Brown",
+      "Beard1Brown"
    ]
 },
  {
@@ -61890,13 +61890,13 @@
    "forename": "Arlington",
    "surname": "Hambright",
    "position": "OT",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 24,
    "draftSeason": 2020,
    "draftNum": 203,
-   "length": 4,
-   "salary": 825000,
-   "guarantee": 20000,
+   "length": 0,
+   "salary": 0,
+   "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
    "eGuarantee": 1,
@@ -61937,10 +61937,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard1Black"
    ]
 },
  {
@@ -67853,10 +67853,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard3Black"
    ]
 },
  {
@@ -71576,12 +71576,12 @@
    "forename": "Jesper",
    "surname": "Horsted",
    "position": "TE",
-   "teamID": "Free Agent",
+   "teamID": "CHI",
    "age": 23,
    "draftSeason": 2018,
    "draftNum": 224,
-   "length": 0,
-   "salary": 0,
+   "length": 1,
+   "salary": 780000,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -71799,8 +71799,8 @@
    "appearance": [
       "Head3",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard3Black"
    ]
 },
  {
@@ -74871,10 +74871,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard1Black"
    ]
 },
  {
@@ -75973,10 +75973,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard3Black"
    ]
 },
  {
@@ -76147,10 +76147,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard1Black"
    ]
 },
  {
@@ -77956,12 +77956,12 @@
    "forename": "Jesse",
    "surname": "James",
    "position": "TE",
-   "teamID": "Free Agent",
+   "teamID": "CHI",
    "age": 26,
    "draftSeason": 2014,
    "draftNum": 151,
-   "length": 0,
-   "salary": 0,
+   "length": 1,
+   "salary": 1162500,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -78873,10 +78873,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
       "Hair3Brown",
-      "Beard2Brown"
+      "Beard1Brown"
    ]
 },
  {
@@ -79801,10 +79801,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard2Black"
    ]
 },
  {
@@ -81947,10 +81947,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard4Black"
    ]
 },
  {
@@ -88965,10 +88965,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -97783,8 +97783,8 @@
    "appearance": [
       "Head5",
       "Eyes3",
-      "Hair3Black",
-      "Beard3Black"
+      "Hair2Black",
+      "Beard2Black"
    ]
 },
  {
@@ -102374,12 +102374,12 @@
    "forename": "Dan",
    "surname": "McCullers",
    "position": "DT",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 28,
    "draftSeason": 2013,
    "draftNum": 198,
-   "length": 1,
-   "salary": 750000,
+   "length": 0,
+   "salary": 0,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -102421,10 +102421,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Brown",
+      "Beard4Brown"
    ]
 },
  {
@@ -106318,13 +106318,13 @@
    "forename": "Anthony",
    "surname": "Miller",
    "position": "WR",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 25,
    "draftSeason": 2017,
    "draftNum": 50,
-   "length": 2,
-   "salary": 845000,
-   "guarantee": 490000,
+   "length": 0,
+   "salary": 0,
+   "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
    "eGuarantee": 1,
@@ -106365,10 +106365,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -108511,10 +108511,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -108627,10 +108627,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -112065,7 +112065,7 @@
    "draftSeason": 2017,
    "draftNum": 224,
    "length": 1,
-   "salary": 140000,
+   "salary": 780000,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -112109,8 +112109,8 @@
    "appearance": [
       "Head3",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -112408,12 +112408,12 @@
    "forename": "Ryan",
    "surname": "Nall",
    "position": "RB",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 24,
    "draftSeason": 2017,
    "draftNum": 224,
-   "length": 1,
-   "salary": 590000,
+   "length": 0,
+   "salary": 0,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -112455,10 +112455,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -113857,7 +113857,7 @@
    "iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",
    "forename": "Bilal",
    "surname": "Nichols",
-   "position": "DT",
+   "position": "DE",
    "teamID": "CHI",
    "age": 23,
    "draftSeason": 2017,
@@ -113905,10 +113905,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Black"
    ]
 },
  {
@@ -115413,9 +115413,9 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
-      "Hair3Brown",
+      "Hair2Black",
       "Beard2Brown"
    ]
 },
@@ -116062,12 +116062,12 @@
    "forename": "Alec",
    "surname": "Ogletree",
    "position": "LB",
-   "teamID": "Free Agent",
+   "teamID": "CHI",
    "age": 28,
    "draftSeason": 2020,
    "draftNum": 224,
-   "length": 0,
-   "salary": 0,
+   "length": 1,
+   "salary": 850000,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -121977,13 +121977,13 @@
    "iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",
    "forename": "Jason",
    "surname": "Peters",
-   "position": "OG",
-   "teamID": "Free Agent",
+   "position": "OT",
+   "teamID": "CHI",
    "age": 38,
    "draftSeason": 2003,
    "draftNum": 224,
-   "length": 0,
-   "salary": 0,
+   "length": 1,
+   "salary": 1525000,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -123428,13 +123428,13 @@
    "forename": "Eddy",
    "surname": "Pineiro",
    "position": "K",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 24,
    "draftSeason": 2017,
    "draftNum": 224,
-   "length": 1,
-   "salary": 546667,
-   "guarantee": 6667,
+   "length": 0,
+   "salary": 0,
+   "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
    "eGuarantee": 1,
@@ -123476,9 +123476,9 @@
    "growthType": 0,
    "appearance": [
       "Head3",
-      "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Eyes2",
+      "Hair5Brown",
+      "Beard1Brown"
    ]
 },
  {
@@ -126143,10 +126143,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair1Black",
+      "Beard3Black"
    ]
 },
  {
@@ -129866,13 +129866,13 @@
    "forename": "Riley",
    "surname": "Ridley",
    "position": "WR",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 24,
    "draftSeason": 2018,
    "draftNum": 119,
-   "length": 3,
-   "salary": 635000,
-   "guarantee": 165000,
+   "length": 0,
+   "salary": 0,
+   "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
    "eGuarantee": 1,
@@ -129913,10 +129913,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard1Black"
    ]
 },
  {
@@ -131885,10 +131885,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard2Black"
    ]
 },
  {
@@ -135133,7 +135133,7 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
       "Hair3Brown",
       "Beard2Brown"
@@ -135438,9 +135438,9 @@
    "age": 32,
    "draftSeason": 2011,
    "draftNum": 224,
-   "length": 1,
-   "salary": 750000,
-   "guarantee": 140000,
+   "length": 0,
+   "salary": 0,
+   "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
    "eGuarantee": 1,
@@ -135481,10 +135481,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Brown",
+      "Beard3Ginger"
    ]
 },
  {
@@ -138207,10 +138207,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard2Black"
    ]
 },
  {
@@ -139367,10 +139367,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Black",
+      "Beard2Black"
    ]
 },
  {
@@ -141165,10 +141165,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Black"
    ]
 },
  {
@@ -144830,12 +144830,12 @@
    "forename": "Jason",
    "surname": "Spriggs",
    "position": "OT",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 26,
    "draftSeason": 2015,
    "draftNum": 48,
-   "length": 1,
-   "salary": 830000,
+   "length": 0,
+   "salary": 0,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -144877,10 +144877,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Brown",
+      "Beard3Brown"
    ]
 },
  {
@@ -154969,10 +154969,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Black",
+      "Beard2Black"
    ]
 },
  {
@@ -155154,7 +155154,7 @@
    "forename": "Desmond",
    "surname": "Trufant",
    "position": "CB",
-   "teamID": "CHI",
+   "teamID": "DELETE",
    "age": 29,
    "draftSeason": 2012,
    "draftNum": 21,
@@ -155201,10 +155201,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Black",
+      "Beard2Black"
    ]
 },
  {
@@ -157358,12 +157358,12 @@
    "forename": "James",
    "surname": "Vaughters",
    "position": "DE",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 27,
    "draftSeason": 2016,
    "draftNum": 224,
-   "length": 2,
-   "salary": 635000,
+   "length": 0,
+   "salary": 0,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -157406,9 +157406,9 @@
    "growthType": 0,
    "appearance": [
       "Head3",
-      "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Eyes1",
+      "Hair1Brown",
+      "Beard3Black"
    ]
 },
  {
@@ -157927,10 +157927,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Black",
+      "Beard2Black"
    ]
 },
  {
@@ -163901,10 +163901,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Brown",
+      "Beard3Brown"
    ]
 },
  {
@@ -164887,10 +164887,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard4Black"
    ]
 },
  {
@@ -165003,10 +165003,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard3Black"
    ]
 },
  {
@@ -169074,13 +169074,13 @@
    "forename": "Javon",
    "surname": "Wims",
    "position": "WR",
-   "teamID": "CHI",
+   "teamID": "KEEP",
    "age": 25,
    "draftSeason": 2017,
    "draftNum": 197,
-   "length": 2,
-   "salary": 615000,
-   "guarantee": 20000,
+   "length": 0,
+   "salary": 0,
+   "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
    "eGuarantee": 1,
@@ -169121,10 +169121,10 @@
    "rating": 1,
    "growthType": 2,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Black",
+      "Beard1Black"
    ]
 },
  {
@@ -170640,12 +170640,12 @@
    "forename": "Josh",
    "surname": "Woods",
    "position": "LB",
-   "teamID": "Free Agent",
+   "teamID": "CHI",
    "age": 24,
    "draftSeason": 2017,
    "draftNum": 224,
-   "length": 0,
-   "salary": 0,
+   "length": 1,
+   "salary": 660000,
    "guarantee": 0,
    "eLength": 1,
    "eSalary": 1,
@@ -172953,6 +172953,238 @@
       "Eyes3",
       "Hair3Brown",
       "Beard2Brown"
+   ]
+},
+ {
+   "iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",
+   "forename": "J.P.",
+   "surname": "Holtz",
+   "position": "TE",
+   "teamID": "CHI",
+   "age": 28,
+   "draftSeason": 2016,
+   "draftNum": 224,
+   "length": 1,
+   "salary": 850000,
+   "guarantee": 0,
+   "eLength": 1,
+   "eSalary": 1,
+   "eGuarantee": 1,
+   "potential": 1,
+   "speed": 78,
+   "burst": 85,
+   "power": 74,
+   "agility": 81,
+   "jumping": 80,
+   "stamina": 84,
+   "injuryProne": 9,
+   "discipline": 50,
+   "intelligence": 40,
+   "loyalty": 50,
+   "greed": 50,
+   "ambition": 50,
+   "decisions": 81,
+   "vision": 81,
+   "sPassAcc": 6,
+   "mPassAcc": 6,
+   "dPassAcc": 6,
+   "throwOnRun": 6,
+   "routeRun": 55,
+   "catching": 77,
+   "passBlock": 61,
+   "rushBlock": 59,
+   "ballSecurity": 72,
+   "trucking": 66,
+   "kickAccuracy": 10,
+   "zoneCover": 15,
+   "manCover": 12,
+   "blockShedding": 47,
+   "ballStrip": 51,
+   "tackle": 48,
+   "elusiveness": 71,
+   "releaseLine": 61,
+   "skillMove": 40,
+   "rating": 1,
+   "growthType": 1,
+   "appearance": [
+      "Head2",
+      "Eyes3",
+      "Hair2Brown",
+      "Beard1Brown"
+   ]
+},
+ {
+   "iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",
+   "forename": "Larry",
+   "surname": "Borum",
+   "position": "OT",
+   "teamID": "CHI",
+   "age": 22,
+   "draftSeason": 2021,
+   "draftNum": 151,
+   "length": 1,
+   "salary": 510000,
+   "guarantee": 0,
+   "eLength": 1,
+   "eSalary": 1,
+   "eGuarantee": 1,
+   "potential": 1,
+   "speed": 66,
+   "burst": 76,
+   "power": 81,
+   "agility": 51,
+   "jumping": 76,
+   "stamina": 81,
+   "injuryProne": 9,
+   "discipline": 50,
+   "intelligence": 40,
+   "loyalty": 50,
+   "greed": 50,
+   "ambition": 50,
+   "decisions": 51,
+   "vision": 51,
+   "sPassAcc": 6,
+   "mPassAcc": 6,
+   "dPassAcc": 6,
+   "throwOnRun": 6,
+   "routeRun": 6,
+   "catching": 24,
+   "passBlock": 61,
+   "rushBlock": 67,
+   "ballSecurity": 26,
+   "trucking": 26,
+   "kickAccuracy": 10,
+   "zoneCover": 15,
+   "manCover": 12,
+   "blockShedding": 28,
+   "ballStrip": 71,
+   "tackle": 28,
+   "elusiveness": 37,
+   "releaseLine": 12,
+   "skillMove": 40,
+   "rating": 1,
+   "growthType": 1,
+   "appearance": [
+      "Head3",
+      "Eyes3",
+      "Hair5Black",
+      "Beard2Black"
+   ]
+},
+ {
+   "iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",
+   "forename": "Khalil",
+   "surname": "Herbert",
+   "position": "RB",
+   "teamID": "CHI",
+   "age": 23,
+   "draftSeason": 2021,
+   "draftNum": 217,
+   "length": 1,
+   "salary": 690000,
+   "guarantee": 0,
+   "eLength": 1,
+   "eSalary": 1,
+   "eGuarantee": 1,
+   "potential": 1,
+   "speed": 89,
+   "burst": 88,
+   "power": 73,
+   "agility": 87,
+   "jumping": 81,
+   "stamina": 81,
+   "injuryProne": 16,
+   "discipline": 50,
+   "intelligence": 40,
+   "loyalty": 50,
+   "greed": 50,
+   "ambition": 50,
+   "decisions": 87,
+   "vision": 87,
+   "sPassAcc": 6,
+   "mPassAcc": 6,
+   "dPassAcc": 6,
+   "throwOnRun": 6,
+   "routeRun": 52,
+   "catching": 66,
+   "passBlock": 50,
+   "rushBlock": 35,
+   "ballSecurity": 93,
+   "trucking": 73,
+   "kickAccuracy": 10,
+   "zoneCover": 17,
+   "manCover": 10,
+   "blockShedding": 28,
+   "ballStrip": 35,
+   "tackle": 31,
+   "elusiveness": 82,
+   "releaseLine": 44,
+   "skillMove": 40,
+   "rating": 1,
+   "growthType": 1,
+   "appearance": [
+      "Head4",
+      "Eyes3",
+      "Hair2Black",
+      "Beard2Black"
+   ]
+},
+ {
+   "iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",
+   "forename": "Khyiris",
+   "surname": "Tonga",
+   "position": "DT",
+   "teamID": "CHI",
+   "age": 25,
+   "draftSeason": 2021,
+   "draftNum": 224,
+   "length": 1,
+   "salary": 680000,
+   "guarantee": 0,
+   "eLength": 1,
+   "eSalary": 1,
+   "eGuarantee": 1,
+   "potential": 1,
+   "speed": 68,
+   "burst": 79,
+   "power": 90,
+   "agility": 56,
+   "jumping": 74,
+   "stamina": 79,
+   "injuryProne": 14,
+   "discipline": 50,
+   "intelligence": 40,
+   "loyalty": 50,
+   "greed": 50,
+   "ambition": 50,
+   "decisions": 56,
+   "vision": 56,
+   "sPassAcc": 6,
+   "mPassAcc": 6,
+   "dPassAcc": 6,
+   "throwOnRun": 6,
+   "routeRun": 17,
+   "catching": 30,
+   "passBlock": 48,
+   "rushBlock": 49,
+   "ballSecurity": 39,
+   "trucking": 52,
+   "kickAccuracy": 28,
+   "zoneCover": 24,
+   "manCover": 18,
+   "blockShedding": 69,
+   "ballStrip": 17,
+   "tackle": 79,
+   "elusiveness": 55,
+   "releaseLine": 27,
+   "skillMove": 40,
+   "rating": 1,
+   "growthType": 1,
+   "appearance": [
+      "Head4",
+      "Eyes3",
+      "Hair2Black",
+      "Beard3Black"
    ]
 }
 ]
