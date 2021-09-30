@@ -9041,10 +9041,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard2Black"
    ]
 },
  {
@@ -23193,10 +23193,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Black"
    ]
 },
  {
@@ -25977,10 +25977,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Brown",
+      "Beard1Brown"
    ]
 },
  {
@@ -29110,8 +29110,8 @@
    "growthType": 1,
    "appearance": [
       "Head3",
-      "Eyes3",
-      "Hair3Brown",
+      "Eyes1",
+      "Hair2Brown",
       "Beard2Brown"
    ]
 },
@@ -34851,10 +34851,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard2Black"
    ]
 },
  {
@@ -36649,10 +36649,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -45987,10 +45987,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -47263,10 +47263,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
       "Hair3Brown",
-      "Beard2Brown"
+      "Beard1Brown"
    ]
 },
  {
@@ -64605,10 +64605,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Black",
+      "Beard2Black"
    ]
 },
  {
@@ -71565,10 +71565,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -92387,10 +92387,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Black",
+      "Beard2Black"
    ]
 },
  {
@@ -102315,7 +102315,7 @@
    "iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",
    "forename": "Justin",
    "surname": "McCray",
-   "position": "C",
+   "position": "OG",
    "teamID": "HOU",
    "age": 29,
    "draftSeason": 2014,
@@ -113557,10 +113557,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Brown",
+      "Beard1Brown"
    ]
 },
  {
@@ -118777,10 +118777,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard2Black"
    ]
 },
  {
@@ -119821,10 +119821,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -120343,10 +120343,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard2Black"
    ]
 },
  {
@@ -122607,8 +122607,8 @@
    "appearance": [
       "Head3",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Brown",
+      "Beard1Brown"
    ]
 },
  {
@@ -123939,10 +123939,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard2Black"
    ]
 },
  {
@@ -132987,10 +132987,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -137571,8 +137571,8 @@
    "appearance": [
       "Head3",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Brown",
+      "Beard4Brown"
    ]
 },
  {
@@ -140588,7 +140588,7 @@
       "Head3",
       "Eyes3",
       "Hair3Brown",
-      "Beard2Brown"
+      "Beard1Brown"
    ]
 },
  {
@@ -141687,10 +141687,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair6Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -146733,9 +146733,9 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
+      "Hair4Brown",
       "Beard2Brown"
    ]
 },
@@ -147835,10 +147835,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair5Black",
+      "Beard1Brown"
    ]
 },
  {
@@ -154041,10 +154041,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Blonde",
+      "Beard1Brown"
    ]
 },
  {
@@ -155261,8 +155261,8 @@
    "appearance": [
       "Head3",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Blonde",
+      "Beard1Brown"
    ]
 },
  {
@@ -156071,10 +156071,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard4Brown"
    ]
 },
  {
@@ -157588,7 +157588,7 @@
  {
    "iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",
    "forename": "Alijah",
-   "surname": "Vera Tucker",
+   "surname": "Vera-Tucker",
    "position": "OG",
    "teamID": "NYJ",
    "age": 22,
@@ -157637,10 +157637,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair3Black",
+      "Beard2Black"
    ]
 },
  {
@@ -158333,10 +158333,10 @@
    "rating": 1,
    "growthType": 1,
    "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair4Black",
+      "Beard2Black"
    ]
 },
  {
@@ -162683,10 +162683,10 @@
    "rating": 1,
    "growthType": 0,
    "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
-      "Hair3Brown",
-      "Beard2Brown"
+      "Hair2Brown",
+      "Beard1Brown"
    ]
 },
  {
